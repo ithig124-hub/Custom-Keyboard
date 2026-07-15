@@ -1,0 +1,11 @@
+Part,Quantity,Unit Price (USD),Total Price (USD),Notes
+Orpheus Pico,1,12.00,12.00,Microcontroller (RP2040-based); USB-C wired connection
+MX-style switches,65,0.30,19.50,61 keys + 4 spares
+1N4148 diodes (through-hole),65,0.03,1.95,One per key + spares; usually sold in packs of 100
+DSA blank keycaps (white),65,0.35,22.75,61 keys + spares; check if buying a bulk set is cheaper per-unit
+SK6812 MINI-E LEDs,65,5.55,5.55,Per-key RGB; confirm reel qty covers 61+ LEDs, note: price is for full reel not per-unit
+Stabilizers (60% kit),1 set,6.00,6.00,"Typical 60% needs: 2x 2u, 2x 2.25u, 1x 6.25u (space)"
+M3x16mm screws,12,0.15,1.80,Qty depends on final case design
+M3x5x4mm heatset inserts,12,0.20,2.40,Match screw count
+Custom PCB (60% layout),3,2.00,6.00,"NOT in provided parts list - design in KiCad, order via JLCPCB etc; min order qty usually 5"
+Case/plate material,1,15.00,15.00,"NOT in provided parts list - laser-cut acrylic or 3D printed; price varies a lot by material/vendor"
